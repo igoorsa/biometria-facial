@@ -141,5 +141,3 @@ screenshots
 venv
 venv/
 .venv/
-
-*.ipynb
